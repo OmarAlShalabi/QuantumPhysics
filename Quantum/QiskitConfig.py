@@ -1,0 +1,2 @@
+ApiToken = "5c493e8f6ae140db066123d6c325c22dfa9a9e2eb93dd9188aaf64429e7289d283fcbef84af5e72033f5dbb50df4ee441187e94419a9e9dd07154da1ec80a86a"
+URL = "https://quantumexperience.ng.bluemix.net/api"
